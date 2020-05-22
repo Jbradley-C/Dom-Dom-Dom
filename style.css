@@ -1,0 +1,12 @@
+/* adding style to the squares */
+.flex-box>.square {
+    height: 5em;
+    width: 5em;
+    background-color: black;
+    
+} 
+/* Making squares wrap */
+.flex-box {
+    display: flex;
+    flex-wrap: wrap;
+}
