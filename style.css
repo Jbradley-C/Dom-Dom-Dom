@@ -1,5 +1,5 @@
 /* adding style to the squares */
-.flex-box>.square {
+.square {
     height: 5em;
     width: 5em;
     background-color: black;
